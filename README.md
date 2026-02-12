@@ -10,8 +10,8 @@ Agentic RAG has the ability to maintain the context cover the conversation inste
 <h3>1. Clone the repository:</h3>
 
 ```
-git clone https://github.com/ThomasJanssen-tech/Local-RAG-with-Ollama
-cd Local-RAG-With-Ollama
+git clone https://github.com/andevishnuvardhan/PS_Level1_Agentic_Rag
+
 ```
 
 <h3>2. Create a virtual environment</h3>
